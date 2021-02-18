@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+So...Look, here is an example. Well, nothing to say, blablablabla.
+
+Things to do:
+
+-[] todo 1
+-[] todo 2
