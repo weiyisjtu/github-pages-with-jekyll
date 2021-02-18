@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "So long and thanks for all the fish!"
+date: 2021-02-18
 ---
 ## Hi firend!
 
